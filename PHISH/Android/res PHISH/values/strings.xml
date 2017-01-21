@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">oyKBQtJhvsehzSfhY9r-W7Hg0IyKVyb2MWNGM</string>
+    <string name="app_name">iTour.phish</string>
+</resources>
